@@ -8020,7 +8020,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_imx135.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_imx214
@@ -8032,7 +8032,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_imx214.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_mt9m114
@@ -8068,7 +8068,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov13850.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov13850_q13v06k
@@ -8080,7 +8080,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov13850_q13v06k.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov16825
@@ -8092,7 +8092,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov16825.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov2680
@@ -8104,7 +8104,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov2680.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov2680_5987fhq
@@ -8116,7 +8116,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov2680_5987fhq.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov2680_cht852b
@@ -8188,7 +8188,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5648_q5v22e.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov5670_30010a3
@@ -8212,7 +8212,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5670_q5v41b.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov5670_qc700
@@ -8248,7 +8248,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov8825.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov8858
@@ -8260,7 +8260,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov8858.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov8858_q8v19w
@@ -8320,7 +8320,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_S5K4E1_13P1BA.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_SKUAA_ST_gc0339
@@ -11488,7 +11488,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib64/libmmcamera_imx214.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib64
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov16825
@@ -11500,7 +11500,7 @@ LOCAL_MODULE_TAGS   := optional
 LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib64/libmmcamera_ov16825.so
 LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib64
 LOCAL_PROPRIETARY_MODULE := true
-include $(BUILD_PREBUILT)
+#include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov7695
