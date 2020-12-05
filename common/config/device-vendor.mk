@@ -1202,6 +1202,7 @@ MM_CAMERA += libmmcamera_mt9m114
 MM_CAMERA += libmmcamera_optizoom
 MM_CAMERA += libmmcamera_optizoom_lib
 MM_CAMERA += libmmcamera_ov5645
+MM_CAMERA += libmmcamera_ov56450
 MM_CAMERA += libmmcamera_ov7695
 MM_CAMERA += libmmcamera_ov2720
 MM_CAMERA += libmmcamera_ov2680

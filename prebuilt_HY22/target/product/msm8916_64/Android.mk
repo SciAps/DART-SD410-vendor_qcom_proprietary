@@ -8155,6 +8155,19 @@ LOCAL_PROPRIETARY_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
+LOCAL_MODULE        := libmmcamera_ov56450
+LOCAL_MODULE_CLASS  := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := .so
+LOCAL_MULTILIB      := 32
+LOCAL_MODULE_OWNER  := qcom
+LOCAL_MODULE_TAGS   := optional
+LOCAL_SRC_FILES     := ../../.././target/product/msm8916_64/system/vendor/lib/libmmcamera_ov56450.so
+LOCAL_MODULE_PATH   := $(PRODUCT_OUT)/system/vendor/lib
+LOCAL_PROPRIETARY_MODULE := true
+include $(BUILD_PREBUILT)
+
+
+include $(CLEAR_VARS)
 LOCAL_MODULE        := libmmcamera_ov5648_oty5f03
 LOCAL_MODULE_CLASS  := SHARED_LIBRARIES
 LOCAL_MODULE_SUFFIX := .so

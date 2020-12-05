@@ -674,6 +674,7 @@ Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm89
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov2680_cht852b_intermediates/export_includes
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov2720_intermediates/export_includes
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov5645_intermediates/export_includes
+Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov56450_intermediates/export_includes
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov5648_oty5f03_intermediates/export_includes
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov5648_p5v18g_intermediates/export_includes
 Export includes file: vendor/qcom/proprietary/prebuilt_HY22/target/product/msm8916_64/Android.mk -- out/target/product/msm8916_64/obj_arm/SHARED_LIBRARIES/libmmcamera_ov5648_q5v22e_intermediates/export_includes
@@ -1737,6 +1738,7 @@ target Prebuilt: libmmcamera_ov2680_5987fhq_32 (out/target/product/msm8916_64/ob
 target Prebuilt: libmmcamera_ov2680_cht852b_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov2680_cht852b.so)
 target Prebuilt: libmmcamera_ov2720_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov2720.so)
 target Prebuilt: libmmcamera_ov5645_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov5645.so)
+target Prebuilt: libmmcamera_ov56450_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov56450.so)
 target Prebuilt: libmmcamera_ov5648_oty5f03_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov5648_oty5f03.so)
 target Prebuilt: libmmcamera_ov5648_p5v18g_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov5648_p5v18g.so)
 target Prebuilt: libmmcamera_ov5648_q5v22e_32 (out/target/product/msm8916_64/obj_arm/lib/libmmcamera_ov5648_q5v22e.so)
@@ -2501,6 +2503,7 @@ Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov2680_5987
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov2680_cht852b.so
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov2720.so
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5645.so
+Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov56450.so
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5648_oty5f03.so
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5648_p5v18g.so
 Install: out/target/product/msm8916_64/system/vendor/lib/libmmcamera_ov5648_q5v22e.so
